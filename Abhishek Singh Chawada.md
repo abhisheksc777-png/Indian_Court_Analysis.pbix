@@ -2,9 +2,7 @@
 <h3 align="center">Aspiring Data Analyst | Passionate About Data Visualization & Insights | Results-Oriented Data Analyst | Python | SQL | Excel | Power BI</h3>
 
 - 🌱 I’m currently learning **Data Analytics**
-
-- 👨‍💻 All of my projects are available at [Powerbi-Dashboard-Projects](Powerbi-Dashboard-Projects)
-
+- 
 - 📫 How to reach me **abhisheksc777@gmail.com**
 - 
 <h3 align="left">Languages and Tools:</h3>
